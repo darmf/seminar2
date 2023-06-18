@@ -1,0 +1,15 @@
+/Users/MacBook/Desktop/ДЗ ГБ/seminar2/zadacha_2/obj/Debug/net7.0/zadacha_2.csproj.AssemblyReference.cache
+/Users/MacBook/Desktop/ДЗ ГБ/seminar2/zadacha_2/obj/Debug/net7.0/zadacha_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MacBook/Desktop/ДЗ ГБ/seminar2/zadacha_2/obj/Debug/net7.0/zadacha_2.AssemblyInfoInputs.cache
+/Users/MacBook/Desktop/ДЗ ГБ/seminar2/zadacha_2/obj/Debug/net7.0/zadacha_2.AssemblyInfo.cs
+/Users/MacBook/Desktop/ДЗ ГБ/seminar2/zadacha_2/obj/Debug/net7.0/zadacha_2.csproj.CoreCompileInputs.cache
+/Users/MacBook/Desktop/ДЗ ГБ/seminar2/zadacha_2/bin/Debug/net7.0/zadacha_2
+/Users/MacBook/Desktop/ДЗ ГБ/seminar2/zadacha_2/bin/Debug/net7.0/zadacha_2.deps.json
+/Users/MacBook/Desktop/ДЗ ГБ/seminar2/zadacha_2/bin/Debug/net7.0/zadacha_2.runtimeconfig.json
+/Users/MacBook/Desktop/ДЗ ГБ/seminar2/zadacha_2/bin/Debug/net7.0/zadacha_2.dll
+/Users/MacBook/Desktop/ДЗ ГБ/seminar2/zadacha_2/bin/Debug/net7.0/zadacha_2.pdb
+/Users/MacBook/Desktop/ДЗ ГБ/seminar2/zadacha_2/obj/Debug/net7.0/zadacha_2.dll
+/Users/MacBook/Desktop/ДЗ ГБ/seminar2/zadacha_2/obj/Debug/net7.0/refint/zadacha_2.dll
+/Users/MacBook/Desktop/ДЗ ГБ/seminar2/zadacha_2/obj/Debug/net7.0/zadacha_2.pdb
+/Users/MacBook/Desktop/ДЗ ГБ/seminar2/zadacha_2/obj/Debug/net7.0/zadacha_2.genruntimeconfig.cache
+/Users/MacBook/Desktop/ДЗ ГБ/seminar2/zadacha_2/obj/Debug/net7.0/ref/zadacha_2.dll
